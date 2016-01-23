@@ -18,22 +18,22 @@ html, body {
 
 html { 
   background: url(bandstand.png) no-repeat center center fixed; 
-  background-color:#333;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  opacity:0.6;
 }
 
 body {
 	font-family: -apple-system, "Helvetica Neue", Helvetica, sans-serif;
 	outline: none !important;
+	opacity:0.6;
+   	background-color:#333;
 }
 
 .container {
-	background-color:#333;
-	opacity:1;
+	/*background-color:#333;
+	opacity:1;*/
 	display:block;
 	margin: auto auto;
 	max-width:620px;
