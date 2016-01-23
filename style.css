@@ -17,7 +17,7 @@ html, body {
 }
 
 html { 
-  background: url(bandstand.jpg) no-repeat center center fixed; 
+  background: url(bandstand.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -27,7 +27,6 @@ html {
 body {
 	font-family: -apple-system, "Helvetica Neue", Helvetica, sans-serif;
 	outline: none !important;
-	background-color: #101420;
 }
 
 h1, h2 {
