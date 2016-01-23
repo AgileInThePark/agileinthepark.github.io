@@ -30,8 +30,8 @@ body {
 }
 
 .container {
-	background-color:#000000;
-	opacity:0.4;
+	background-color:#666;
+	opacity:0.6;
 	display:block;
 	margin: auto auto;
 	max-width:620px;
