@@ -29,6 +29,11 @@ body {
 	outline: none !important;
 }
 
+.container {
+	background-color:#000000;
+	opacity:0.6;
+}
+
 h1, h2 {
 	margin: auto auto;
 	text-align:center;
