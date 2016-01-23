@@ -18,6 +18,7 @@ html, body {
 
 html { 
   background: url(bandstand.png) no-repeat center center fixed; 
+  background-color:#333;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
