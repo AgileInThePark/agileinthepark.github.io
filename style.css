@@ -58,7 +58,7 @@ h1, h2 {
 	opacity: 0;
 }
 
-h3, p, span {
+h3, p, a {
 	font-size: 16px;
 	color: #FBEC00;
 	text-align: center;
