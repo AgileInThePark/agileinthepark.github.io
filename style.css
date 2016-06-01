@@ -34,7 +34,7 @@ body {
    	background-color:#333;
 	display:block;
 	margin: auto auto;
-	max-width:640px;
+	max-width:620px;
 	padding: 40px;
 }
 
@@ -47,7 +47,7 @@ h1, h2 {
 	color: #FBEC00;
 	height: 30px;
 	font-size: 18px;
-	width: 260px;
+	width: 320px;
 	animation-name: fadein;
 	animation-duration: .6s;
 	animation-iteration-count: 1;
