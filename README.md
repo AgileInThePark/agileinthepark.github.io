@@ -4,4 +4,3 @@ Agile Cheltenham - an outdoor time-boxed meetup for agile development enthusiast
 
 ![bandstand](https://github.com/MatBenfield/agileinthepark.thechels.uk/blob/gh-pages/bandstand.png)
 
-[https://agileinthepark.thechels.uk](https://agileinthepark.thechels.uk)
